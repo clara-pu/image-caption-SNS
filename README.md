@@ -1,4 +1,4 @@
-# Image Caption for Social Network Posts
+# Image Captioning for Social Network Posts
 Data-X Project \
 Team:Joanne Jiang, Zhongyao Ma, Yangyiying Pu, Chengwu Shen, Huidi Wang
 
