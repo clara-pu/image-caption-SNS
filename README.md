@@ -1,6 +1,6 @@
 # Image Caption for Social Network Posts
 Data-X Project \
-Team: Yangyiying Pu, Zhongyao Ma, Joanne Jiang, Huidi Wang, Chengwu Shen.
+Team:Joanne Jiang, Zhongyao Ma, Yangyiying Pu, Chengwu Shen, Huidi Wang
 
 ## Description
 1. We run `apify-scrape.py` to collect posts from Instagram associated with specific hashtags.\
