@@ -37,9 +37,9 @@ tensorflow_hub==0.8.0
 flask==1.1.1
 wordsegment==1.3.1
 scipy==1.4.1
-sklearn==0.21.3
-pickle==4.0
+scikit-learn==0.21.3
 werkzeug==0.16.0
+pickle-mixin==1.0.2
 ```
 
 5. Change directory to `image-caption-SNS/` in terminal
