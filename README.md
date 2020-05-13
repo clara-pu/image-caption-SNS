@@ -1,7 +1,7 @@
 # Image Captioning for Social Network Posts
 
-Data-X Project \
-Team:Joanne Jiang, Zhongyao Ma, Yangyiying Pu, Chengwu Shen, Huidi Wang
+Berkeley IEOR 290 Data-X Project \
+Team: Joanne Jiang, Zhongyao Ma, Yangyiying Pu, Chengwu Shen, Huidi Wang
 
 
 ## Objective
@@ -15,7 +15,7 @@ Our project aims to provide a solution to users who want to become social media 
 We run `apify-scrape.py` to collect posts from Instagram associated with specific hashtags. We downloaded 3822 pictures (saved in `images/`) and their hashtags (saved in `tags.pickle`), which are connected by post ID. 
 
 2. Model construction \
-We train two models, K-dimensional tree (`model_kdtree.py`) and logistic regression (`model_logreg.py`), for hashtag prediction. We use techniques in image classification and natural language processing. 
+We train two models, K-dimensional tree (`model_kdtree.py`) and logistic regression (`model_logreg.py`), for hashtag prediction. We use techniques for image classification and natural language processing. The output of each program is the overall prediction accuracy on the test dataset. The function defined at last is for a single prediction in user interface. 
 
 3. User Interface \
 We built a UI with Python Flask and all associated files are in the UI folder. Demo video is the `demo_video_480p.mov` file. Due to the limitation on file size (25MB) on GitHub, we also shared a clearer version (2KB) via email.
