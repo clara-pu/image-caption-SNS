@@ -32,7 +32,7 @@ We built a UI with Python Flask and all associated files are in the `UI/` folder
 4. Install packages: 
 
 ```bash
-tensorflow==2.0.1
+tensorflow==2.1.0
 tensorflow_hub==0.8.0
 flask==1.1.1
 wordsegment==1.3.1
