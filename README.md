@@ -18,7 +18,7 @@ We run `apify-scrape.py` to collect posts from Instagram associated with specifi
 We train two models, K-dimensional tree (`model_kdtree.py`) and logistic regression (`model_logreg.py`), for hashtag prediction. We use techniques for image classification and natural language processing. The output of each program is the overall prediction accuracy on the test dataset. The function defined at last is for a single prediction in user interface. 
 
 3. User Interface \
-We built a UI with Python Flask and all associated files are in the UI folder. Demo video is the `demo_video_480p.mov` file. Due to the limitation on file size (25MB) on GitHub, we also shared a clearer version (61MB) via email.
+We built a UI with Python Flask and all associated files are in the `UI/` folder. Demo video is the `demo_video.mov` file, as shown in our presentation. 
 
 
 ## Installation 
